@@ -1,5 +1,54 @@
 # Food Ordering System
 
+A simple **Food / Item Ordering and Management System** built using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.  
+This project allows users to browse a menu, place orders, and allows admins to manage orders.
+
+---
+
+## Table of Contents
+
+- [Description](#description)  
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Limitations](#limitations)  
+- [License](#license)  
+
+---
+
+## Description
+
+This project is a web-based food ordering system designed to simulate the process of ordering food online.  
+It includes functionalities for both **users** and **admins**, including:  
+
+- User registration and login  
+- Viewing available food items  
+- Placing orders  
+- Admin management of orders  
+
+The system uses a **MySQL database** to store user, menu, and order information.  
+
+> **Note:** This project is intended for learning and demonstration purposes. It is **not production-ready**.
+
+---
+
+## Features
+
+- User Registration and Login  
+- Browse Food Items / Menu  
+- Place Orders (with fake payment system)  
+- Admin Panel to view all orders  
+- Basic Dashboard for order management  
+
+---
+
+## Technologies Used
+
+- PHP  
+- MySQL  
+- HTML / CSS / JavaScript  
+- Apache / XAMPP or any PHP server  
 
 
 
